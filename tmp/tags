@@ -1,0 +1,11 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+BaseClass	/home/vag/cpp/tmp/virt.cpp	/^        BaseClass(): name("BASE class") {}$/;"	f	language:C++	class:BaseClass
+BaseClass	/home/vag/cpp/tmp/virt.cpp	/^class BaseClass $/;"	c	language:C++	file:
+endl	/home/vag/cpp/tmp/virt.cpp	/^            std::cout <<name<<std::endl;$/;"	m	language:C++	class:SecondClass::std	file:
+endl	/home/vag/cpp/tmp/virt.cpp	/^            std::cout <<name<<std::endl;$/;"	m	language:C++	class:ThirdClass::std	file:
+name	/home/vag/cpp/tmp/virt.cpp	/^        std::string name;$/;"	m	language:C++	class:BaseClass	file:
+print	/home/vag/cpp/tmp/virt.cpp	/^        virtual print() const; $/;"	p	language:C++	class:BaseClass	file:
+SecondClass	/home/vag/cpp/tmp/virt.cpp	/^        SecondClass(): name("SECOND class") {}$/;"	f	language:C++	class:SecondClass
+SecondClass	/home/vag/cpp/tmp/virt.cpp	/^class SecondClass: BaseClass()$/;"	c	language:C++	file:
+ThirdClass	/home/vag/cpp/tmp/virt.cpp	/^        ThirdClass(): name("THIRD class") {}$/;"	f	language:C++	class:ThirdClass
+ThirdClass	/home/vag/cpp/tmp/virt.cpp	/^class ThirdClass: BaseClass $/;"	c	language:C++	file:

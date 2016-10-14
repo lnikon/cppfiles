@@ -1,0 +1,21 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+data	/home/vag/cpp/hash/list.h	/^    int data;$/;"	m	language:C++	struct:node
+hashTable	/home/vag/cpp/hash/main.h	/^        list * hashTable;$/;"	m	language:C++	class:hashTableClass
+hashTableClass	/home/vag/cpp/hash/main.h	/^        hashTableClass()$/;"	f	language:C++	class:hashTableClass
+hashTableClass	/home/vag/cpp/hash/main.h	/^class hashTableClass$/;"	c	language:C++
+head	/home/vag/cpp/hash/list.h	/^        list() head(NULL) {} $/;"	f	language:C++	class:list
+head	/home/vag/cpp/hash/list.h	/^        node * head;$/;"	m	language:C++	class:list
+ladd	/home/vag/cpp/hash/list.h	/^        void ladd();$/;"	p	language:C++	class:list
+ladd	/home/vag/cpp/hash/list.h	/^void list::ladd(int newData)$/;"	f	language:C++	class:list
+ldelete	/home/vag/cpp/hash/list.h	/^        void ldelete();$/;"	p	language:C++	class:list
+lget	/home/vag/cpp/hash/list.h	/^        void lget();$/;"	p	language:C++	class:list
+list	/home/vag/cpp/hash/list.h	/^class list$/;"	c	language:C++
+main	/home/vag/cpp/hash/main.cpp	/^int main()$/;"	f	language:C++
+next	/home/vag/cpp/hash/list.h	/^    node * next;$/;"	m	language:C++	struct:node
+node	/home/vag/cpp/hash/list.h	/^struct node$/;"	s	language:C++
+prev	/home/vag/cpp/hash/list.h	/^    node * prev;$/;"	m	language:C++	struct:node
+randomNumber	/home/vag/cpp/hash/main.cpp	/^void randomNumber(hashTableClass htab);$/;"	p	language:C++	file:
+tail	/home/vag/cpp/hash/list.h	/^        node * tail;$/;"	m	language:C++	class:list
+_LIST_H_	/home/vag/cpp/hash/list.h	2;"	d	language:C++
+_MAIN_H_	/home/vag/cpp/hash/main.h	2;"	d	language:C++
+~list	/home/vag/cpp/hash/list.h	/^        ~list() $/;"	f	language:C++	class:list

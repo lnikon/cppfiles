@@ -1,0 +1,12 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+arrCopy	/home/vag/cpp/array/copyArr/main.cpp	/^void arrCopy(int source[SIZE], int dest[SIZE])$/;"	f	language:C++
+arrCopy	/home/vag/cpp/array/copyArr/main.h	/^void arrCopy(int source[SIZE], int dest[SIZE]);$/;"	p	language:C++
+arrFill	/home/vag/cpp/array/copyArr/main.cpp	/^void arrFill(int arr[SIZE])$/;"	f	language:C++
+arrFill	/home/vag/cpp/array/copyArr/main.h	/^void arrFill(int arr[SIZE]);$/;"	p	language:C++
+arrPrint	/home/vag/cpp/array/copyArr/main.cpp	/^void arrPrint(int arr[SIZE])$/;"	f	language:C++
+arrPrint	/home/vag/cpp/array/copyArr/main.cpp	/^void arrPrint(int arr[SIZE], int a, int b)$/;"	f	language:C++
+arrPrint	/home/vag/cpp/array/copyArr/main.h	/^void arrPrint(int arr[SIZE]);$/;"	p	language:C++
+arrPrint	/home/vag/cpp/array/copyArr/main.h	/^void arrPrint(int arr[SIZE], int a, int b);$/;"	p	language:C++
+main	/home/vag/cpp/array/copyArr/main.cpp	/^int main()$/;"	f	language:C++
+MAIN_H	/home/vag/cpp/array/copyArr/main.h	2;"	d	language:C++
+SIZE	/home/vag/cpp/array/copyArr/main.h	/^static const int SIZE = 48;$/;"	v	language:C++
